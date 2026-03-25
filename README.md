@@ -89,3 +89,7 @@ Github - https://github.com/Krishna-2013/
 ## 📜 License
 
 This project is open-source and free to use.
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
