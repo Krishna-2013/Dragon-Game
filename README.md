@@ -15,13 +15,13 @@ A simple browser-based game built using HTML, CSS, and JavaScript where you cont
 
 ## 📸 Screenshot
 
-<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/e4d612de-cbac-4b6d-83b2-2f6e6e35f423" />
+<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/5a8c5167-71e7-4435-8fea-c63423d3b225" />
 
 ---
 
 ## 🚀 Live Demo
-[View Live Site](#)  
-<!-- Replace # with your GitHub Pages link -->
+
+https://krishna-2013.github.io/Dragon-Game/
 
 ---
 
