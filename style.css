@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
     width: 233px;
     position: absolute;
     bottom: 0;
-    left: 52px;
+    left: 80px;
 }
 
 .jump {
@@ -52,7 +53,7 @@ body {
     width: 166px;
     position: absolute;
     bottom: 0;
-    left: 44vw;     
+    left: 60vw;     
 }
 
 .obstacleAni {
@@ -69,4 +70,44 @@ body {
         left: -10vw;
     }
 
+}
+
+.scoreContainer {
+    position: absolute;
+    padding: 10px;
+    left: 30px;
+    top: 23px;
+    border: 3px solid black;
+    width: 6vw;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.highScoreContainer {
+    position: absolute;
+    padding: 10px;
+    right: 23px;
+    top: 23px;
+    border: 3px solid black;
+    width: 9vw;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.controls {
+    position: absolute;
+    top: 15vh;
+    left: 23px;
+    font-size: 18px;
+}
+
+.controls p {
+    margin: 12px;
+}
+
+.start {
+    position: relative;
+    top: 63px;
+    font-size: 30px;
+    text-align: center;
 }
